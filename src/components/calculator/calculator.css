@@ -1,0 +1,18 @@
+.calc{
+    width: 400px;
+    height: 500px;
+    box-shadow: 2px 2px 2px 3px rgba(0, 0, 0, 0.096);
+    margin: 200px auto 0 auto;
+    display: flex;
+    justify-content: column;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+.calc button{
+    width: 130px;
+    height: 60px;
+}
+.calc .result{
+    width: 100%;
+    font-size: 30px;
+}
