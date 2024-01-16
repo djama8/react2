@@ -1,0 +1,9 @@
+header{
+    background-color: rgb(144, 192, 247);
+    display: flex;
+}
+header nav ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
